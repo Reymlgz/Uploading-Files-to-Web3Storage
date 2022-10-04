@@ -37,7 +37,7 @@ Paste the CID on the search bar from your default browser and add the next text 
 
 The link needs to look like this: 
 
-bafybeifhtxbrbwh2pkw7fcd7tzayytrbznehbcyhtcdkaguvmnbvcz4muy.ipfs.dweb.link/
+>bafybeifhtxbrbwh2pkw7fcd7tzayytrbznehbcyhtcdkaguvmnbvcz4muy.ipfs.dweb.link/
 
 
 Hope it helps you!
